@@ -1,0 +1,39 @@
+div.heading{
+    font-size: 50px;
+    margin: 20px;
+    font-style: italic;
+    color: aquamarine;
+    text-shadow: 1px 1px 2px darkgreen;
+    align-items: center;
+    display: inline-block;
+}
+button{
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 25px;
+    font-style: italic;
+    color: chocolate;
+}
+.pressed{
+    opacity: 0.5;
+    box-shadow: 0px 0px green;
+}
+div.buttons{
+    display: inline-block;
+}
+button#tiger{
+    font-size: 20px;
+    margin: 20px;
+}
+button#horse{
+    font-size: 20px;
+    margin: 20px;
+}
+button#peacock{
+    font-size: 20px;
+    margin: 20px;
+}
+button#elephant{
+    font-size: 20px;
+    margin: 20px;
+}
